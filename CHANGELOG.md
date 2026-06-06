@@ -1,3 +1,5 @@
+## [v1.9.2](https://github.com/helloworld753315/runn/commits/v1.9.2) - 2026-06-06
+
 ## [v1.9.2](https://github.com/k1LoW/runn/compare/v1.9.1...v1.9.2) - 2026-04-23
 ### Fix bug 🐛
 - fix: send cookies to http.Handler-based runners (httptest path) by @k1LoW in https://github.com/k1LoW/runn/pull/1457
